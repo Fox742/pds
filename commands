@@ -1,0 +1,4 @@
+dmesg | tail -n 100
+sudo sh -c "echo p 8 1000 > /proc/pds"
+sudo insmod hello.ko
+sudo rmmod hello.ko

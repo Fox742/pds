@@ -10,7 +10,7 @@
 static struct proc_dir_entry *proc_entry;
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Lakshmanan");
+MODULE_AUTHOR("Fox742");
 MODULE_DESCRIPTION("Process delaying Shedule");
 
 char * procEntryName="pds";
